@@ -1,2 +1,32 @@
-# Inkly_Project
-Created with CodeSandbox
+# INKLING - Notes App
+
+**INKLING** is a sleek and minimalist notes app built with **React**. Designed for simplicity and ease of use, it allows users to quickly jot down thoughts, and manage their ideas.
+
+---
+
+## Features
+
+-  **Add Notes**  
+  Create new notes with a single click.
+
+-  **Delete Notes**  
+  Remove unwanted notes instantly.
+
+-  **Responsive UI**  
+  Clean, user-friendly interface that works across devices.
+
+---
+
+## Tech Stack
+
+- **React** – Front-end UI
+- **JavaScript (ES6+)**
+- **HTML5 & CSS3**
+  
+---
+## Screenshots
+
+Here’s a quick look at the INKLING Notes App UI:
+
+###  Notes Dashboard
+![INKLING Notes App Screenshot](Dashboard.png)
