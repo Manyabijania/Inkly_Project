@@ -1,6 +1,10 @@
 # INKLING - Notes App
 
-**INKLING** is a sleek and minimalist notes app built with **React**. Designed for simplicity and ease of use, it allows users to quickly jot down thoughts, and manage their ideas.
+**Inkling** is a sleek and minimalist notes app built with **React**. Designed for simplicity and ease of use, it allows users to quickly jot down thoughts, and manage their ideas.
+---
+
+**Check out the live app here:**  [Preview Link](https://p8f5zp.csb.app)
+
 
 ---
 
@@ -26,7 +30,7 @@
 ---
 ## Screenshots
 
-Here’s a quick look at the INKLING Notes App UI:
+Here’s a quick look of the UI:
 
 ###  Notes Dashboard
 ![INKLING Notes App Screenshot](Dashboard.png)
